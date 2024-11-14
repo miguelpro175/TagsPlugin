@@ -1,0 +1,8 @@
+name: TagPlugin
+version: '1.0'
+main: br.com.migueleb.tagplugin.TagPlugin
+api-version: 1.8
+commands:
+  settag:
+    description: Define a tag do jogador.
+    usage: /settag [tag]
